@@ -101,4 +101,4 @@ python FacialEmotionRecognition.py
 ## Author
 
 **Abdullah Ahmed Abdelfattah Ahmed**
-[GitHub](https://github.com/abdullahelnoory) · [LinkedIn](https://www.linkedin.com/in/abdallah-elnoory-b45126282/)
+[GitHub](https://github.com/abdullahelnoory) · [LinkedIn](https://www.linkedin.com/in/abdullah-elnoory-b45126282/)
